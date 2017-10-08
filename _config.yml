@@ -4,7 +4,7 @@ url:
 baseurl: ""
 author: "KeJun"
 paginate: 5
-paginate_path: "/lonely"
+paginate_path: "https://github.com/johnzhangchina/lonely"
 
 plugins:
   - jekyll-sitemap
