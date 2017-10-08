@@ -1,10 +1,10 @@
 title: "Jekyll-Theme-MDUI"
 description: "A Jekyll theme based on MDUI"
 url: 
-baseurl: ""
+baseurl: "/lonely"
 author: "KeJun"
 paginate: 5
-paginate_path: "/lonely"
+paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-sitemap
