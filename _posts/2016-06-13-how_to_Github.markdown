@@ -4,7 +4,7 @@ title:  "How to bild the space on Github-step 1"
 description: This section is to introduce how we can build the space belongs to you at GitHub, it includes how to sign up, create project and edit at local PC and upload.
 date:   2017-12-17 16:00:00 +0800
 categories: jekyll update
-img: ![structure]({{site.baseurl}}/images/step1_01.png)
+img: step1_01.png
 categories: [one, two]
 color: 7E57C2
 author: John
