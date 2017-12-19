@@ -12,7 +12,9 @@ author: John
 本来想直接开更python的内容，但是想到后面更新文章少不了用到markdown的一些语法，所以学习几条md的基础语法，满足更新文章的最基本需求.
 
 #粗体和斜体
+
 ##代码：
+
 '*斜体*'
 
 '**粗体**'
@@ -20,25 +22,34 @@ author: John
 '***加粗斜体***'
 
 '~~删除线~~' (markdwon pad 2 中貌似不生效)
+
 ##效果：
+
 ![cuxieti]({{site.baseurl}}/images/zxt1.png)
 
 #分级标题
+
 ##代码：
+
 '一级标题'
 '============='
 
 '二级标题'
 '-------------'
+
 ##效果：
+
 ![biaoti]({{site.baseurl}}/images/bt01.png)
 
 #超链接
 Markdown支持两种形式的链接语法：行内式、参考式（行内式运用较多,时间有限只提下行内式）
+
 ##行内式
 语法说明：[]里写链接文字，()里写链接地址, ()中的”“中可以为链接指定title属性，title属性可加可不加。title属性的效果是鼠标悬停在链接上会出现指定的 title文字。[链接文字](链接地址 “链接标题”)’这样的形式。链接地址与链接标题前有一个空格。
+
 ##代码：
 'John's space [lonely](https://johnzhangchina.github.io/lonely/ "lonely")'
+
 ##效果：
 [jsl1]({{site.baseurl}}/images/jsl1.png)
 
