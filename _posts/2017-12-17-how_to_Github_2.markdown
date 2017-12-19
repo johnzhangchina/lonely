@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to bild the space on Github-step 2"
+title:  "How to biuld the space on Github-step 2"
 description: This section is to introduce after we builed space, how can we use the template then edit it to make the space looks more prety and personalized.
 date:   2017-12-17 18:00:00 +0800
 categories: jekyll update
