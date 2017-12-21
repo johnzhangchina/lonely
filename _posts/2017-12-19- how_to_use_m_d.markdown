@@ -22,7 +22,7 @@ author: John
 ***JohnZhang***
 
 ~~delete~~ (markdwon pad 2 中预览失败，应该是在WIN10中JS渲染有问题)
-{% highlight ruby %}
+{% endhighlight %}
 
 显示效果：
 ![cuxieti]({{site.baseurl}}/images/zxt1.png)
@@ -36,7 +36,7 @@ JohnZhang
 
 JohnZhang
 -------------
-{% highlight ruby %}
+{% endhighlight %}
 
 显示效果：
 ![biaoti]({{site.baseurl}}/images/bt01.png)
