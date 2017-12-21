@@ -50,7 +50,7 @@ Markdown支持两种形式的链接语法：行内式、参考式（行内式运
 
 John's space [lonely](https://johnzhangchina.github.io/lonely/ "lonely")
 
-{% highlight ruby %}
+{% endhighlight %}
 
 显示效果：
 [jsl1]({{site.baseurl}}/images/jsl1.png)
