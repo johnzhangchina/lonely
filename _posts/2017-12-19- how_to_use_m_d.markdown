@@ -36,6 +36,7 @@ JohnZhang
 JohnZhang
 -------------
 {% highlight ruby %}
+
 显示效果：
 ![biaoti]({{site.baseurl}}/images/bt01.png)
 
@@ -46,6 +47,7 @@ Markdown支持两种形式的链接语法：行内式、参考式（行内式运
 {% highlight ruby %}
 'John's space [lonely](https://johnzhangchina.github.io/lonely/ "lonely")'
 {% highlight ruby %}
+
 显示效果：
 [jsl1]({{site.baseurl}}/images/jsl1.png)
 
