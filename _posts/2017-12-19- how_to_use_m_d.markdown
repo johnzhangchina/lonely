@@ -44,8 +44,9 @@ JohnZhang
 Markdown支持两种形式的链接语法：行内式、参考式（行内式运用较多,时间有限只提下行内式）
 ##行内式
 语法说明：[]里写链接文字，()里写链接地址, ()中的”“中可以为链接指定title属性，title属性可加可不加。title属性的效果是鼠标悬停在链接上会出现指定的 title文字。[链接文字](链接地址 “链接标题”)’这样的形式。链接地址与链接标题前有一个空格。
+
 {% highlight ruby %}
-'John's space [lonely](https://johnzhangchina.github.io/lonely/ "lonely")'
+John's space [lonely](https://johnzhangchina.github.io/lonely/ "lonely")
 {% highlight ruby %}
 
 显示效果：
