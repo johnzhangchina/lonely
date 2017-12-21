@@ -53,7 +53,7 @@ John's space [lonely](https://johnzhangchina.github.io/lonely/ "lonely")
 {% endhighlight %}
 
 显示效果：
-！[lonely]({{site.baseurl}}/images/jsl1.png)
+![lonely]({{site.baseurl}}/images/jsl1.png)
 
 这三种写简单博客够用了，有些语法等要用到的时候自行查询就可以了，今天有点累写不动了，后面的时间应该会先更python基础吧目标是年前用python写一个网站自动化测试的脚本，可能有点困难，因为自己学还好，更到github上有点麻烦，尽力。
 
