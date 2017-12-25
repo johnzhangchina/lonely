@@ -13,14 +13,17 @@ author: John
 python相较与其它语言（Java, c, c++等），语法上更简洁，简洁到。。。恩，你连句末的';'号都不用输。今天就介绍python基础的两种语法：打印'print'和输入'input'.
 
 #Python print 语法:
-'print()'
+
+'print('content')'
 括号中加需要打印的内容就可以了，如果是字符串需要加""或者''（实例效果可以参见下文的截图）
 
 #Python input 语法：
+
 'number=input('please input a number')'
 运行的时候我们在控制台就可以输入想要输入的字符了（效果可以参见下文的截图）
 
 #练习：
+
 这两句语法很简单，我们可以做一下练习，自己随便输入一些数字或者字符，来看看效果，代码如下：
 {% highlight ruby %}
 ## print
